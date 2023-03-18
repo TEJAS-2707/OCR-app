@@ -1,0 +1,5 @@
+\\ for camera permission
+<uses-feature android:name="android.hardware.camera" android:required="true"/>
+
+\\ for internet permission
+<uses-permission android:name="android.permission.INTERNET"/>
